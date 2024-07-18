@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harish Chaurasia aka mtrxk</h1>
-<h3 align="center">A Passionate Software & Games Developer</h3>
+<h3 align="center">A Passionate Games & Software Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="harishchaurasia" /> </p>
 
@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **Web Dev & AI Projects**
 
-- 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/harishchaurasia)
+<!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/harishchaurasia) -->
 
-- 💬 Ask me about **my journey**
+- 💬 Ask me about **anything & everything**
 
 - 📫 How to reach me: **harishchaursia143@gmail.com**
 
