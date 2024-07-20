@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **anything & everything**
 
-- 📫 How to reach me: **harishchaursia143@gmail.com**
+- 📫 How to reach me: **harishchaurasia143@gmail.com**
 
 - 📄 Know about my experiences: [Resume](https://harishchaurasia.netlify.app/assets/resume2024.pdf)
 
