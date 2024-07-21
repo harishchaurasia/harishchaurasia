@@ -8,19 +8,19 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="harishchaurasia" /> </p>
 
-- 🌱 I’m currently learning **GenAI & UI/UX**
+- 🌱 I’m currently learning **AI & ML**
 
 - 👯 I’m looking to collaborate on **Web Dev & AI Projects**
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/harishchaurasia) -->
 
-- 💬 Ask me about **anything & everything**
+- 💬 Ask me about **Anything & Everything**
 
-- 📫 How to reach me: *harishchaurasia143@gmail.com*
+- 📫 How to reach me: harishchaurasia143@gmail.com
 
 - 📄 Know about my experiences: [Resume](https://harishchaurasia.netlify.app/assets/resume2024.pdf)
 
-- ⚡ Fun fact: **I am a Music Producer & DJ**
+- ⚡ Fun fact: **I am a Music Producer & a DJ**
 
 <h3 align="left">Connect with me:</h3>
 <p align="center">
