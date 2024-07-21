@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Harish Chaurasia aka "mtrxk"</h1>
+<h1 align="center">Hey there 👋, I'm Harish Chaurasia aka "mtrxk"</h1>
 <h3 align="center">A Passionate Games & Software Developer</h3>
 
 <div align="center">
