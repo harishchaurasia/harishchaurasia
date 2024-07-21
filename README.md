@@ -2,10 +2,9 @@
 <h3 align="center">A Passionate Games & Software Developer</h3>
 
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&pause=1000&color=FF9933&center=true&vCenter=true&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%83+%F0%9F%99%8F;Hello+%F0%9F%99%8F;Namaste+%F0%9F%99%8F" alt="Typing SVG" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&pause=1000&color=FF9933&center=true&vCenter=true&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%83+%F0%9F%99%8F;Hello!+%F0%9F%99%8F;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%F0%9F%99%8F" alt="Typing SVG" />
 </div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="harishchaurasia" /> </p>
 
