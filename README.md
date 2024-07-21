@@ -41,6 +41,8 @@
 
 
 <!-- Align the image to the center -->
+<p align="center"><img alt = "Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harishchaurasia&hide=html,&title_color=5391FE&text_color=555&layout=donut" height="200px" /></p>
+
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harishchaurasia&" alt="harishchaurasia" /></p>
 
 <!-- Add a thank you section -->
