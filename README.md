@@ -36,7 +36,7 @@
 <h3 align="left">Languages and Tools:</h3>
 
 <p align="center">
- <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,javascript,html,css,react,nodejs,nextjs,aws,git,github,linux,androidstudio,figma,blender,firebase,linux,mongodb,tailwind,tensorflow,unity,unreal&perline=12" />
+ <img src="https://skillicons.dev/icons?i=python,java,cs,cpp,javascript,typescript.html,css,react,nodejs,nextjs,aws,git,github,linux,androidstudio,xcode,figma,blender,firebase,linux,mongodb,tailwind,tensorflow,unity,unreal&perline=13" />
 </p>
 
 
