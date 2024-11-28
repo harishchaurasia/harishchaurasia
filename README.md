@@ -18,7 +18,7 @@
 
 - 📫 How to reach me: harishchaurasia143@gmail.com
 
-- 📄 Know about my experiences: [Resume](https://harishchaurasia.netlify.app/assets/resume2024.pdf)
+- 📄 Know about my experiences: [Resume](https://harishchaurasia.com/Resume2025.pdf)
 
 - ⚡ Fun fact: **I am a Music Producer & a DJ**
 
