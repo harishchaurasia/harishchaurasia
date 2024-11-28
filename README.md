@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Harish Chaurasia aka "mtrxk"</h1>
-<h3 align="center">A Passionate Games & Software Developer</h3>
+<h3 align="center">Full Stack Software & Games Developer</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&pause=1000&color=FF9933&center=true&vCenter=true&width=435&lines=%E0%A4%A8%E0%A4%AE%E0%A4%83+%F0%9F%99%8F;Hello!+%F0%9F%99%8F;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%F0%9F%99%8F" alt="Typing SVG" />
