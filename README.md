@@ -25,7 +25,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/harishchaurasia" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harishchaurasia" height="30" width="40" /></a>
-<a href="https://instagram.com/mtrx_music" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="harr1shofficial" height="30" width="40" /></a>
+<a href="https://instagram.com/mtrx_music" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="mtrx_music" height="30" width="40" /></a>
+<a href="https://x.com/harischaurasia" target="_blank" ><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/x.svg" alt="harischaurasia" height="30" width="40" /></a>
+  
 </p>
 
 <!-- Add some space -->
