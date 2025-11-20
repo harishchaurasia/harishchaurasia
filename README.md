@@ -8,9 +8,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="harishchaurasia" /> </p>
 
-- 🌱 I’m currently learning **AI & ML**
+- 🌱 I’m currently learning **AI/ML, Pretraining and Finetuning**
 
-- 👯 I’m looking to collaborate on **Web Dev & AI Projects**
+- 👯 I’m looking to collaborate on **AI based RAG & LLM Projects and AI Agents**
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/harishchaurasia) -->
 
