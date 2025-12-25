@@ -8,9 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harishchaurasia&label=Profile%20views&color=0e75b6&style=flat" alt="harishchaurasia" /> </p>
 
-- 🌱 I’m currently learning **AI/ML, Pretraining and Finetuning**
+- 🌱 I’m actively Learning AI/ML, LLM pretraining & fine-tuning
 
-- 👯 I’m looking to collaborate on **AI based RAG & LLM Projects and AI Agents**
+- 💻 Actively doing research on LLM-based web agents, including benchmarking, security, robustness and threat modeling
+
+- 👯 Looking to collaborate on AI agents, RAG systems, and applied LLM research projects
 
 <!-- - 👨‍💻 All of my projects are available at [My Portfolio](https://github.com/harishchaurasia) -->
 
