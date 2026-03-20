@@ -1,5 +1,5 @@
 <h1 align="center">Hey there 👋, I'm Harish Chaurasia</h1>
-<h3 align="center">AI/ML Engineer • Agentic AI Researcher • MCP & AI Agent Builder • Game Developer • Founder @ Arka Forge</h3>
+<h3 align="center">AI/ML Engineer • Agentic AI Researcher • Building MCPs & AI Agents • Game Deveveloper</h3>
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=37&pause=1000&color=FF9933&center=true&vCenter=true&width=500&lines=%E0%A4%A8%E0%A4%AE%E0%A4%83+%F0%9F%99%8F;Hello!+%F0%9F%99%8F;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87!+%F0%9F%99%8F" alt="Typing SVG" />
@@ -13,9 +13,6 @@
   </a>
   <a href="https://harishchaurasia.com/Harish's%20Resume.pdf" target="_blank">
     <img src="https://img.shields.io/badge/Resume-View%20PDF-blue?style=for-the-badge&logo=readthedocs&logoColor=white" />
-  </a>
-  <a href="mailto:harishchaurasia143@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
   <a href="https://linkedin.com/in/harishchaurasia" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
